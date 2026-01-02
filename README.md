@@ -48,4 +48,11 @@
     <h3>🧩 Algorithm</h3>
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=geist9110" width="240">
   </div>
+
+  <div>
+    <h3>🔗 Links</h3>
+    <a href="https://geist9110.github.io">
+      <img src="https://img.shields.io/badge/Obsidian-Blog-7046E8?style=flat-square&logo=obsidian&logoColor=white">
+    </a>
+  </div>
 </div>
