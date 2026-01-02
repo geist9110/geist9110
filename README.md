@@ -47,6 +47,7 @@
   <div>
     <h3>🧩 Algorithm</h3>
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=geist9110" width="240">
+    <br/><br/>
   </div>
 
   <div>
